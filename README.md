@@ -13,3 +13,5 @@ This repository contains my MongoDB practice commands and database operations.
 - MongoDB queries
 - Company collection
 - Drives collection
+- All CRUD Operation
+- Aggregation pipelines
